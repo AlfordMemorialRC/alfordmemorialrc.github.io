@@ -1,0 +1,9 @@
+{% if site.meeting-reminder %}
+## Next Club Meeting
+> **Date & Time:** {{ site.meet_datetime }}   
+> **Program Title:**  {{ site.meet_subject }}
+
+Click on the [meetings page](meetings#meetings) for more details.
+
+---
+{% endif %}

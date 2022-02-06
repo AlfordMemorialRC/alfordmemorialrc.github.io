@@ -1,0 +1,9 @@
+/.hold
+/_site
+/files
+/images
+/.sass-cache
+/bin
+/.jekyll-cache
+/.env
+/.jekyll-metadata

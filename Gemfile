@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+gem "jekyll-github-metadata"
+gem "jekyll-theme-minimal"
+gem "jekyll-mentions"
+gem "jekyll-redirect-from"
+gem "jekyll-sitemap"
+gem "jemoji"

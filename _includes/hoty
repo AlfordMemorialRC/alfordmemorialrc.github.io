@@ -1,0 +1,7 @@
+{% if site.announce-hoty %}
+## HAM-OF-THE-YEAR!!
+### <a href="{{ site.qrz_url }}/{{ site.data.hoty.callsign }}" target="_blank" rel="noopener" title="{{ site.data.hoty.callsign }}">{{ site.data.hoty.name }} ({{ site.data.hoty.callsign }})</a> is named Alford Memorial Radio Club ***Ham of the Year*** for {{ current-year | minus: 1 }}!
+{{ site.data.hoty.message }}
+
+---
+{% endif %}

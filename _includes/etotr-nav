@@ -1,0 +1,15 @@
+<tr valign="top">
+  <td rowspan="6" bgcolor="#000086" width="168">
+  <p align="center">
+    <h3 class="sidebar-groups"><a style="color: white;" href="/e-totr/#e-totr-archives" title="E-ETOTR Archives">E-TOTR Archives</a></h3>
+    <a href="/e-totr/#2019" title="2019"><img class="pages" alt="2019" src="/assets/svg/2019-button.svg"></a>
+    <a href="/e-totr/#2018" title="2018"><img class="pages" alt="2018" src="/assets/svg/2018-button.svg"></a>
+    <a href="/e-totr/#2017" title="2017"><img class="pages" alt="2017" src="/assets/svg/2017-button.svg"></a>
+    <a href="/e-totr/#2016" title="2016"><img class="pages" alt="2016" src="/assets/svg/2016-button.svg"></a>
+    <a href="/e-totr/#2015" title="2015"><img class="pages" alt="2015" src="/assets/svg/2015-button.svg"></a>
+  </p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p class="copyright">:copyright:<br>{{ "now" | date: "%Y" }} Alford Memorial Radio Club</p>
+</tr>

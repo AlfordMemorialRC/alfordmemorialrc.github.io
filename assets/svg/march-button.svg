@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224" height="75" role="img" aria-label="2018"><script xmlns=""/>
+  <title>March</title>
+  
+  
+  <g clip-path="url(#r)">
+    <rect width="0" height="75" fill="#0b8043"/>
+    <rect x="0" width="224" height="75" fill="#0b8043"/>
+    <rect width="224" height="75" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="372" y="168" transform="scale(.3)" align="center" fill="#fff">March</text>
+  </g>
+</svg>

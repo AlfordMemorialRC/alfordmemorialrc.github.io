@@ -1,0 +1,36 @@
+theme: jekyll-theme-minimal
+title: W4BOC
+show_downloads: false
+logo: assets/images/logo.png
+description: Top of the Rock
+url: https://www.totr-radio.org
+hamfest_url: https://www.stonemountainhamfest.com
+dekalbares_url: https://www.dekalbares.org
+files_url: https://alfordmemorialrc.github.io/files
+etotr_url: https://alfordmemorialrc.github.io/etotr-archives
+qrz_url: https://www.qrz.com/db
+meeting_invite: https://alfordmemorialradioclub.groups.io/g/main/viewevent?repeatid=39435&eventid=1266795
+zoom_url: https://zoom.totr-radio.org
+turnip_schedule: https://docs.google.com/spreadsheets/d/1twXyHS8uW-LB8vfnXPZi82RfgST59--vDH5B8NOdlmU/edit?usp=sharing
+sunday_schedule: https://docs.google.com/spreadsheets/d/1TZ2DXxiJXwNGAiZuUHNT8tR1oBgo7yiIPS8t3se3TUw/edit?usp=sharing_eil&ts=5a47b15d
+domain: totr-radio.org
+pyro: off
+holidaylights: off
+announce-hoty: on
+meeting-reminder: off
+meet_datetime: February 10, 2022 @ 07:00 PM ET
+meet_subject:  TBD
+announce_officers: on
+formspree_id: mpzkjnza
+pp_hosted_button: VQNSP87NW7VPL
+exclude:
+- docker-compose.yml
+- bin
+- gitconfig
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
+incremental: true

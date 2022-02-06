@@ -1,0 +1,32 @@
+<tr valign="top">
+  <td rowspan="6" bgcolor="#000086" width="168">
+  <p align="center">
+    <a href="/meetings#meetings" title="Come join us!!!"><img class="pages" alt="MEETINGS" src="/assets/svg/meetings-button.svg"></a>
+    <a href="/officers#club-officers" title="Meet this year's Club Officers!!!"><img class="pages" alt="OFFICERS" src="/assets/svg/officers-button.svg"></a>
+    <a href="/membership#membership" title="Club Membership Information"><img class="pages" alt="MEMBERSHIP" src="/assets/svg/membership-button.svg"></a>
+    <a href="/by-laws#pdf" title="Bylaws"><img class="pages" alt="BYLAWS" src="/assets/svg/by_laws-button.svg"></a>
+    <a href="/nets#sponsored-nets" title="Here, there be Turnips."><img class="pages" alt="nets" src="/assets/svg/nets-button.svg"></a>
+    <a href="/repeaters#our-repeaters" title="Our Repeaters!!!"><img class="pages" alt="REPEATERS" src="/assets/svg/repeaters-button.svg"></a>
+    <a href="/silentkeys#in-rememberance-of-our-silent-keys" title="Silent Keys"><img class="pages" alt="IN MEMORIAM" src="/assets/svg/in_memoriam-button.svg"></a>
+    <a href="/members-corner#members-corner" title="Members Corner"><img class="pages" alt="MEMBERS CORNER" src="/assets/svg/members_corner-button.svg"></a>
+    <a href="/e-totr#e-totr-archives" title="TOTR Electronic Newsletter"><img class="pages" alt="ETOTR" src="/assets/svg/etotr-button.svg"></a>
+    <a href="/exam-preparation#exam-preparation" title="Click here for information on getting licensed."><img class="pages" alt="LICENSE TESTING" src="/assets/svg/license_testing-button.svg"></a>
+    <a href="/who#who-was-dick-alford-w4boc" title="Who is Alford?"><img class="pages" alt="WHO" src="/assets/svg/who-button.svg"></a>
+  </p>
+  <p align="center">
+    <a href="https://alfordmemorialradioclub.groups.io/g/main" title="AMRC@GroupsIO" target="_blank" rel="noopener" ><img class="sidebar-image" alt="GROUPSIO" src="/assets/images/groupsio2.png" width="30"</a>
+    <a href="https://www.facebook.com/groups/AMRCTOTR/" title="AMRC@Facebook" target="_blank" rel="noopener"><img class="sidebar-image" alt="FACEBOOK" src="/assets/svg/facebook-icon.svg" width="30"></a>
+  </p>
+  <p></p>
+  <p align="center">
+    <a href="/ssc#what-is-an-arrlspecial-service-club-" title="ARRL Special Services Club"><img class="sidebar-image" alt="ARRL SSC" src="/assets/images/ssc.gif" width="50px" height="auto"></a>
+    <a href="https://www.sera.org/" title="Southeastern Repeater Association" target="_blank" rel="noopener"><img class="sidebar-image" alt="SERA" src="/assets/images/sera.gif" width="45px" height="auto"></a>
+    <a href="https://www.arrl.org/" title="Amateur Radio Relay League" target="_blank" rel="noopener"><img class="sidebar-image" alt="ARRL" src="/assets/svg/arrl-logo.svg" width="21px" height="auto"></a>
+    <a href="{{ site.dekalbares_url }}" title="Dekalb ARES" target="_blank" rel="noopener"><img class="sidebar-image" alt="ARES" src="/assets/svg/ares_logo.svg" width="50px" height="auto"></a>
+  </p>
+  <p align="center">
+    <a href="{{ site.hamfest_url }}" title="Click here for the Stone Mountain HamFest" target="_blank" rel="noopener"><img class="sidebar-image" alt="HAMFEST" src="/assets/images/HamFest.jpg" width="55px" height="auto"></a>
+    <a href="https://www.hamradio.com" title="The Alford Memorial Radio Club has several business sponsors that provide us with monthly door prizes and gift certificates, a web site, and many other things that help our club run smoothly and save us money. We would like to thank Ham Radio Outlet for all of the financial and technical support they have given our club over the years. Many thanks to all of the helpful crew at HRO for all they do for us. It is greatly appreciated!" target="_blank" rel="noopener"><img class="sidebar-image" alt="HRO" id="HRO" src="/assets/images/hro-square.jpg" width="50px" height="auto"></a>
+  </p>
+  <p class="copyright">:copyright:<br>{{ "now" | date: "%Y" }} Alford Memorial Radio Club</p>
+</tr>

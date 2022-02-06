@@ -1,0 +1,283 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+.wrapper {
+  margin: auto;
+  width: 1260px;
+}
+
+.months {
+  text-align: center;
+}
+
+head {
+  width: 300px;
+}
+
+header {
+  background: black;
+}
+
+header {
+  overflow-y: auto;
+  height: 95%;
+  text-align: center;
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0)),url(../../assets/images/side-nav-fs8.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  padding-right: unset;
+}
+
+iframe {
+    margin: auto;
+    width: 100%;
+    height: 1056px;
+}
+
+img.logo {
+  border-radius: 0px 0px 10px 10px;
+  opacity: 95%;
+}
+
+div.description {
+  text-decoration: unset;
+  color: white;
+  opacity: 95%;
+}
+
+h3.sidebar-groups {
+  color: white;
+  opacity: 95%;
+}
+
+img.pages {
+  padding: 5px;
+  border-radius: 30px;
+}
+
+img.sidebar-image {
+  border-radius: 1px;
+  opacity: 95%;
+  padding-right: 6px;
+  padding-left: 6px;
+}
+
+body {
+  padding: 14px;
+  overflow: scroll;
+  background-color: #f6f6f6;
+}
+
+form {
+  text-align: left;
+}
+
+section {
+  float: left;
+  border: unset;
+  border-right: inset;
+  width: 100%;
+  max-width: 960px;
+}
+
+@media print, screen and (min-width: 1260px) {
+  section {
+    width: 85%;
+  }
+}
+
+@media print, screen and (min-width: 1230px) and (max-width: 1260px) {
+  section {
+    width: 70%;
+  }
+}
+
+@media print, screen and (min-width: 1220px) and (max-width: 1230px) {
+  section {
+    width: 70%;
+  }
+}
+
+@media print, screen and (min-width: 1210px) and (max-width: 1220px) {
+  section {
+    width: 70%;
+  }
+}
+
+@media print, screen and (min-width: 1200px) and (max-width: 1210px) {
+  section {
+    width: 65%;
+  }
+}
+
+@media screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+}
+
+@media screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+  section {
+    width: 100%;
+  }
+}
+
+@media print, screen and (min-width: 1160px) and (max-width: 1200px) {
+  section {
+    width: 65%;
+  }
+}
+
+@media print, screen and (min-width: 1100px) and (max-width: 1160px) {
+  section {
+    width: 60%;
+  }
+}
+
+@media print, screen and (min-width: 1024px) and (max-width: 1100px) {
+  section {
+    width: 55%;
+  }
+}
+
+@media print, screen and (min-width: 961px) and (max-width: 1024px) {
+  section {
+    width: 50%;
+  }
+}
+
+@media print, screen and (min-width: 961px) {
+  section {
+    margin-left: 300px;
+  }
+}
+
+@media print, screen and (max-width: 960px) {
+  section {
+    border-right: unset;
+  }
+}
+
+@media print, screen and (max-width: 460px) {
+  table {
+    inline-size: max-content;
+  }
+}
+
+div.signature {
+  text-align: justify;
+  text-indent: 10%;
+}
+
+div.sigend {
+  text-align: center;
+}
+
+.social-media {
+  text-indent: -9999em;
+  display: unset;
+  margin: 5px;
+}
+
+.hamfests {
+  text-indent: -9999em;
+}
+
+.sponsors {
+  text-indent: -9999em;
+}
+
+p.copyright {
+  text-align: center;
+  vertical-align: super;
+  color: black;
+}
+
+img.month {
+    border-radius: 10% 10% 10% 10%;
+    margin: 0 26px 36px;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style inputs with type="date", select elements and textareas */
+input[type=date], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style inputs with type="phone", select elements and textareas */
+input[type=phone], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #f9f9f9;
+  color: #2b357e;
+  padding: 12px 20px;
+  border: #e3060e;
+  border-style: solid;
+  border-width: thick;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #f9f9f9;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+img[alt=W4BOC] {
+  width: 150px;
+  opacity: 95%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border: inset;
+}
+
+{% if site.holidaylights %}
+@import "assets/css/holidaylights.scss";
+{% endif %}
+
+{% if site.pyro %}
+@import "assets/css/pyro.scss";
+{% endif %}

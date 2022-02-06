@@ -1,0 +1,36 @@
+hamfest:
+        name: Samuel Najjar
+        callsign: KO4HBY
+membership:
+        name: Steve Garrison
+        callsign: N4TTY
+totr-editor:
+        name: Position Open
+        callsign: n/a
+custodial:
+        name: Gregg Mann
+        callsign: WC4Y
+ares:
+        name: Jim Penland
+        callsign: N4RAR
+ve-testing:
+        name: Frank Haynes
+        callsign: KV4SP
+counsel1:
+        name: Jim Penland
+        callsign: N4RAR
+counsel2:
+        name: Ruth Primm
+        callsign: KJ4SUL
+public-info:
+        name: Steve Vogel
+        callsign: W4PSV
+special-events:
+        name: Richard Dervan
+        callsign: N1RBD
+sunday-net:
+        name: Wyatt Walker
+        callsign: WA4VMF
+website:
+        name: Samuel Najjar
+        callsign: KO4HBY
