@@ -16,7 +16,7 @@ sunday_schedule: https://docs.google.com/spreadsheets/d/1TZ2DXxiJXwNGAiZuUHNT8tR
 domain: totr-radio.org
 pyro: off
 holidaylights: off
-announce-hoty: on
+announce-hoty: off
 meeting-reminder: off
 meet_datetime: February 10, 2022 @ 07:00 PM ET
 meet_subject:  TBD

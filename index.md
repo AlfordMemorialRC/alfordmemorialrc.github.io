@@ -8,15 +8,11 @@ layout: plain
 {% include meeting-reminder %}
 {% include hoty %}
 
-## HAD QUORUM - WE VOTED!! 
-### Meet and congratulate our new [Club Officers](officers#club-officers) for {{ current-year }}!
+## Steve Diggs - W4EPI/SK
+### A Past President Has Become a Silent Key
+Steve (W4EPI) has become a silent key.  He was a past Public Information Officer and President of our Club.  Please join us in rememberance. 
 
-|*Officer*|*Name*||||||
-|---------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------||||||
-|**[President:](mailto:president@{{ site.domain }})**|<a title="{{ site.data.officers.president.name }}" href="{{ site.qrz_url }}/{{ site.data.officers.president.callsign }}" target="_blank" rel="noopener">{{ site.data.officers.president.name }} - {{ site.data.officers.president.callsign }}</a>   ||||||
-|**[Vice President:](mailto:vice-president@{{ site.domain }})**|<a title="{{ site.data.officers.vice-president.name }}" href="{{ site.qrz_url }}/{{ site.data.officers.vice-president.callsign }}" target="_blank" rel="noopener">{{ site.data.officers.vice-president.name }} - {{ site.data.officers.vice-president.callsign }}</a>||||||
-|**[Treasurer:](mailto:treasurer@{{ site.domain }})**|<a title="{{ site.data.officers.treasurer.name }}" href="{{ site.qrz_url }}/{{ site.data.officers.treasurer.callsign }}" target="_blank" rel="noopener">{{ site.data.officers.treasurer.name }} - {{ site.data.officers.treasurer.callsign }}</a>     ||||||
-|**[Secretary:](mailto:secretary@{{ site.domain }})**|<a title="{{ site.data.officers.secretary.name }}" href="{{ site.qrz_url }}/{{ site.data.officers.secretary.callsign }}" target="_blank" rel="noopener">{{ site.data.officers.secretary.name }} - {{ site.data.officers.secretary.callsign }}</a>             ||||||
+<a href="https://www.fischerperimeterchapel.com/obituary/Stephen-Diggs" title="Obituary Stephen Shepard Diggs" target="_blank" rel="noopener"><img alt="W4EPI" src="/assets/images/w4epi.png" width="240px" height="auto"></a>
 
 ---
 

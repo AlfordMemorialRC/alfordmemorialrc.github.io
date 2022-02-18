@@ -6,6 +6,7 @@ layout: plain
 # In Rememberance of Our Silent Keys
    
 > 
+<a href="https://www.fischerperimeterchapel.com/obituary/Stephen-Diggs" title="Steve Diggs Obituary" target="_blank" rel="noopener">Steve Diggs - W4EPI (May 25, 1951 - February 9, 2022)</a>    
 Rob Garner - KG4FZU (December 10, 2021)   
 Emory May - WN4DIZ/ex N4XVQ (December 30th, 1941 - October 2nd, 2021)   
 Judi Kanne - K4JLK (January 4, 1943 - July 28, 2021)   
