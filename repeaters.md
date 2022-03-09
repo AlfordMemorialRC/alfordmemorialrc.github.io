@@ -70,9 +70,9 @@ The Alford Memorial Radio Club currently maintains repeaters at two sites; a pri
 </p>
 
 <p class="cabinet">
-<img class="repeaters" alt="repeater4" src="assets/images/Exchange%20Park%202.jpg" width="40%" height="auto">
+<img class="repeaters" alt="repeater4" src="assets/images/exchange_park-radio_rack.png" width="40%" height="auto">
 <br>
-<i>repeater cabinet layout (top to bottom): 444 power amplifier, 145 power amplifier, 444 repeater, 145 repeater, SCOM 7330 Controller, shelf with backup battery, and at the bottom is an Astron power supply</i>
+<i>repeater cabinet layout</i>
 </p>
 
 <p class="cabinet">
